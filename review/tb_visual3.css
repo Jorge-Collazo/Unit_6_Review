@@ -15,11 +15,20 @@
 
 /* HTML Styles */
 
-
+html{
+   background-image: url(tb_back5.png)
+}
 
 /* Page Body Styles */
 
-
+body{
+   border-style: solid;
+   border-left: 3px;
+   border-right: 3px;
+   border-color: rgb(169, 130, 88);
+   box-shadow: rgb(53, 21, 0) 25px 0px 35px,
+               rgb(53, 21, 0) -25px 0px 35px;
+}
 
 /* Main Styles */
 
