@@ -28,6 +28,12 @@ body{
    border-color: rgb(169, 130, 88);
    box-shadow: rgb(53, 21, 0) 25px 0px 35px,
                rgb(53, 21, 0) -25px 0px 35px;
+   background: linear-gradient(255, 0, 0);
+}
+footer{
+   background: linear-gradient(rgb(255, 0, 0),
+                              rgb(0, 255, 0),
+                              rgb(0, 0, 255)):
 }
 
 /* Main Styles */
